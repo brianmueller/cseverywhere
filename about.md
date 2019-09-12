@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Brian Mueller.
 
-### More Information
+I am a teacher and Software Engineering Coordinator at the High School of Telecommunication Arts and Technology. As a part of our **Web Design** curriculum, this site was developed as an examplar project where students learn front-end web development (HTML/CSS) coupled with their own learning of a front-end tool. In this case, I am using Jekyll, a static site generator, to allow professionals from various industries to contribute the connections to CS in their jobs by using simple markdown syntax. Jekyll then does the rest!
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bmueller@hstat.org](mailto:bmueller@hstat.org)

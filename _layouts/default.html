@@ -27,8 +27,13 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+            <!--<a href="{{ site.baseurl }}/">Blog</a>-->
+            <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/contributing">Contributing</a><br><br>
+            {% for industry in site.industries %}
+              <a href="{{ industry.url }}">{{ industry.title }}</a>
+            {% endfor %}
           </nav>
         </header>
       </div>
