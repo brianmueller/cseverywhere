@@ -122,3 +122,5 @@ I want to keep Jekyll Now as minimal as possible. Every line of code should be o
 # My notes
 
 `jekyll serve --port 8080`
+
+👍🏻
